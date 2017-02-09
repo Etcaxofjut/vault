@@ -4,6 +4,7 @@ def nameByCommit
 // Dupa!
 // Dupa!
 // Dupa!
+// Dupa!
 
 stage('Calculate git-related vars') {
     // http://stackoverflow.com/questions/35554983/git-variables-in-jenkins-workflow-plugin
